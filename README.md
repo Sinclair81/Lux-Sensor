@@ -5,7 +5,7 @@ And with 24V & GND supply also with a 2-10V output.
 [![donate](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://www.paypal.me/Sinclair81)  
   
 <!-- markdownlint-disable MD033 -->  
-<img src="https://github.com/Sinclair81/Lux-Sensor/blob/master/Lux-Sensor_Top.png" align="right" alt="Lux-Sensor_Top" height="233" width="350">  
+<img src="https://github.com/Sinclair81/Lux-Sensor/blob/main/Lux-Sensor_Top.png" align="right" alt="Lux-Sensor_Top" height="233" width="350">  
   
 <!-- markdownlint-enable MD033 -->  
   
