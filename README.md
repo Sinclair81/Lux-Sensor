@@ -9,8 +9,9 @@ And with 24V & GND supply also with a 2-10V output.
   
 <!-- markdownlint-enable MD033 -->  
   
-A [Arduino](https://www.arduino.cc) [Arduino Pro Mini](https://store.arduino.cc/arduino-pro-mini) like PCB  
+A [Arduino](https://www.arduino.cc) [Pro Mini](https://store.arduino.cc/arduino-pro-mini) like PCB  
 with Lux Sensor and 4-20mA Output.  
+  
 MCU - ATmega328P (3.3V, 8MHz)  
 LUX - HB1750  
 DAC - MCP4921  
