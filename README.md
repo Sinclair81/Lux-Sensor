@@ -1,16 +1,14 @@
 # Lux Sensor  
-A 4-20mA Lux Sensor.  
-And with 24V & GND supply also with a 2-10V output.  
-
+  
 [![donate](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://www.paypal.me/Sinclair81)  
   
 <!-- markdownlint-disable MD033 -->  
 <img src="https://github.com/Sinclair81/Lux-Sensor/blob/main/Lux-Sensor_Top.png" align="right" alt="Lux-Sensor_Top" height="233" width="350">  
-  
 <!-- markdownlint-enable MD033 -->  
   
 A [Arduino](https://www.arduino.cc) [Pro Mini](https://store.arduino.cc/arduino-pro-mini) like PCB  
 with Lux Sensor and 4-20mA Output.  
+And with 24V & GND supply also with a 2-10V output.  
   
 MCU - ATmega328P (3.3V, 8MHz)  
 LUX - HB1750  
